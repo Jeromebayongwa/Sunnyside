@@ -1,0 +1,59 @@
+*{
+    background-color: rgb(42, 88, 238);
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/*.header_image img{
+    width: 100px;
+    height: 100px;
+    align-items: center;
+}*/
+
+.Sunnyside{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 40px;
+}
+
+.Sunnyside_title{
+    text-decoration: none;
+    color: rgb(238, 229, 229);
+    float: left;
+    background-image: url(image-header.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;     
+}
+
+.Onglets{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Onglets a{
+    text-decoration: none;
+    color: rgb(238, 229, 229);
+    padding: 10px;
+
+}
+
+@media(min-width: 360px) {
+    .Sunnyside{
+        display: flex;
+        justify-content: space-between;
+        margin: 20px 40px;  
+    }
+    
+    .Sunnyside_title{
+        text-decoration: none;
+        color: rgb(238, 229, 229);
+        float: left;    
+    }
+    
+    .Onglets a{
+        text-decoration: none;
+        color: rgb(238, 229, 229);
+    }
+}

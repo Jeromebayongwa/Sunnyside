@@ -42,26 +42,22 @@
 .Photography{
     position: relative;
     height: 500px;
-    background-image: url(image-photography.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
 }
 
-/*.Photography_image{
+.Photography_image{
     position: absolute;
     top: 0;
     left: 0;
     width: 50%;
     height: 50%;
     object-fit: cover;
-}*/
+}
 
 .Photography_text{
     background-color: transparent;
     padding-top: 400px;
     text-align: center;
-    
+
 }
 
 @media(min-width: 360px) {

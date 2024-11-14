@@ -44,7 +44,7 @@
     height: 600px;
 }
 
-.Photography_image{
+.Photography__image{
     position: absolute;
     top: 0;
     left: 0;
@@ -53,12 +53,12 @@
     object-fit: cover;
 }
 
-.Photography_text{
+.Photography__text{
     position: absolute;
-    top: 50%;
+    top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #fff;
+    color: #044a79;
     text-align: center;
     background-color: transparent;
 }

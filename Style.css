@@ -63,6 +63,29 @@
     background-color: transparent;
 }
 
+.circle{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    float: left;
+    margin-left: 50px;
+}
+
+.circle img{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    float: left;
+    margin-right: 50px;
+    filter: grayscale(100%);
+    margin-bottom: 20px;
+}
+
+.Circlestext{
+margin-bottom: 20px;
+}
+
 @media(min-width: 360px) {
     .Sunnyside{
         display: flex;

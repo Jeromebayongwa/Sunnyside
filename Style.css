@@ -20,11 +20,7 @@
 .Sunnyside_title{
     text-decoration: none;
     color: rgb(238, 229, 229);
-    float: left;
-    background-image: url(image-header.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;     
+    float: left;   
 }
 
 .Onglets{

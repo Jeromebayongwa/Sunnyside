@@ -42,13 +42,6 @@
     display: flex;
 }
 
-.Onglets a{
-    text-decoration: none;
-    color: rgb(238, 229, 229);
-    padding: 10px;
-
-}
-
 .Photography{
     position: relative;
     height: 600px;

@@ -15,24 +15,24 @@
 
 .Photography img{
     width: 100%;
-    height: auto;
+    height: 100%;
 }
 
 .Photography__text h1{
     position: absolute;
     top: 1570px;
     left: 25%;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: serif;
     font-size: 35px;
 }
 
 .Photography__text p{
     position: absolute;
     top: 1630px;
-    left: 1px;
+    left: 15px;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    font-size: medium;
+    font-size: 18px;
 }
 
 .circle{

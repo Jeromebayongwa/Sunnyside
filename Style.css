@@ -23,3 +23,27 @@
     top: 1650px;
     padding-left: 25%;
 }
+
+.circle{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    float: left;
+    margin-left: 50px;
+}
+
+.circle img{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    float: left;
+    margin-right: 50px;
+    filter: grayscale(100%);
+    margin-bottom: 20px;
+    margin-left: 80px;
+}
+
+.Circlestext{
+margin-bottom: 20px;
+}
